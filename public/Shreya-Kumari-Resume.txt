@@ -1,0 +1,76 @@
+Shreya Kumari
+Bhagalpur, Bihar
+Phone: +91 7256998409
+Email: shreyancebgp28@gmail.com
+LinkedIn: https://www.linkedin.com/in/developer-shreya/
+GitHub: github.com/shreypilot
+
+Education
+
+Nalanda College Of Engineering, Chandi
+Bachelor of Technology in Computer Science Engineering
+Dec 2020 - Aug 2024
+CGPA: 8.13
+
+Sunderwati Mahila College, Bhagalpur
+Senior School Certificate Examination (PCM)
+Apr 2017 - Mar 2019
+Percentage: 83.2
+
+New Horizon School, Bhagalpur
+Secondary School Examination
+Jun 2017
+CGPA: 9.8
+
+Work Experience
+
+GI Pharma Middle East Fzco
+.NET Developer
+Feb 2025 - Current, Delhi
+- Developed and maintained web applications using ASP.NET Core and C#.
+- Worked extensively with SQL Server, stored procedures, and modules such as budget and overhead management.
+- Implemented frontend features using JavaScript and AJAX while handling debugging, performance optimization, and session management.
+- Created ERP packages for sales, budget, and overhead modules.
+
+Internship
+
+C-DAC, Patna
+Full Stack Developer Intern
+Feb 2024 - Aug 2024, Patna, Bihar
+- Built government-funded projects including CWPI Analytics, DAE dashboards, IGIMS, and BAU systems using React.js, Tailwind CSS, MySQL, Node.js, and Chart.js.
+- Implemented role-based routing and secure authentication in IGIMS using Node.js, Express.js, LocalStorage, Context API, and Socket.io for real-time status updates.
+- Enabled doctors to update patient check-up status in real time and integrated a Google Calendar-like academic calendar for student data.
+
+Babynama, GagaHealth
+Frontend Developer Intern
+May 2023 - Oct 2023, Remote
+- Programmed babynama.com from scratch using Next.js, TypeScript, and Tailwind CSS.
+- Integrated payment APIs, improving conversion rates and supporting a smoother payment flow.
+- Engineered more than five reusable React components, reducing development time and improving website performance.
+
+Skills
+
+Languages: C++, C#, JavaScript, SQL
+Frameworks: ASP.NET Core, React.js
+Databases: SQL Server, MySQL
+Tools: Git, GitHub, Linux
+
+Projects
+
+Quikcart
+MERN, Tailwind CSS, Chart.js, Socket.io
+May 2024 - Sep 2024
+- Implemented JWT-based authentication, profile management, and email password resets.
+- Developed shopping cart item management and Save for Later functionality.
+- Built product browsing with pagination, search, and filters.
+- Integrated Paytm for secure payments and managed order confirmations.
+- Created an admin dashboard for order, product, and user management.
+- Enabled real-time customer support with Socket.io.
+
+Airline Reservation System Server
+TypeScript, Node.js, Sequelize
+Dec 2023 - Apr 2024
+- Led development of a flight reservation system with a REST API following the MVC design pattern.
+- Used microservices, MySQL, and Sequelize for modular design and efficient data management.
+- Addressed seat selection and concurrent booking challenges to support secure transactions.
+- Implemented cron jobs, RabbitMQ, and notifications for a seamless user experience.
